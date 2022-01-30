@@ -6,7 +6,7 @@ This project is the first step towards building a first full web application: an
 
 ## Usage
 
-The console works in interactive mode, but also in non-interactive mode. It prints the prompt (hbnb) and waits for instruction.
+The console works in interactive mode, and also in non-interactive mode. It prints the prompt (hbnb) and waits for instruction.
 
 Command | Example
 ------- | -------
