@@ -41,11 +41,11 @@
     text-align: center;
     min-width: 60px;
     width: 80px;
-    height: 80px;
+    height: 60px;
     font-size: 30px;
-    line-height: 70px;
-    margin-bottom: 10px;
-
+    line-height: 60px;
+    top: 0;
+    right: 0;
 }
 
 .information {
@@ -129,4 +129,10 @@
 .places .amenities li {
     display: flex;
     text-align: justify;
+}
+div.span {
+	position: absolute;
+	text-align: center;
+	display: inline-block;
+	width: 100%;
 }
